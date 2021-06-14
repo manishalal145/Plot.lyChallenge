@@ -2,7 +2,9 @@
 
 In this assignment, I build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
-The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
+The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.</br>
+
+Deployed site: https://manishalal145.github.io/Plot.lyChallenge/
 
 ## Step 1: Plotly
 
@@ -42,5 +44,3 @@ The dataset reveals that a small handful of microbial species (also called opera
 A Gauge Chart is created to plot the weekly washing frequency of the individual.
 
 ![Weekly Washing Frequency Gauge](Images/gauge.png)
-
-Deployed site: https://manishalal145.github.io/Plot.lyChallenge/
